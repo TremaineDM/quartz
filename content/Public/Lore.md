@@ -1,6 +1,6 @@
 ---
 title: Lore
-draft: true
+draft: false
 tags:
   - example-tag
 ---
